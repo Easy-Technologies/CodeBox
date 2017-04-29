@@ -6,3 +6,5 @@ This dev log is empty because this is the first build of the program!
 Certain calculations confuse the calculator, we are working on a fix for it.
 # Info
 Make sure that after running the installer, an ` Easy Technologies ` folder is made in ` Program Files `. Inside, there should be a folder named ` Code Box `. If there is no icon, batch, or executable file, contact us on the issues page. 
+# Download
+Error
