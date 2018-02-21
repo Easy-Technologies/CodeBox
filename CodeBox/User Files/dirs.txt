@@ -1,0 +1,2 @@
+Add your dirs here. To get to this file, go to C:\Program Files\CodeBox\User Files
+Thank you for using codeBox.exe
